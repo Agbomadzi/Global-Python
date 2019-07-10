@@ -1,0 +1,2 @@
+def pirAst(q):
+    ast="***
